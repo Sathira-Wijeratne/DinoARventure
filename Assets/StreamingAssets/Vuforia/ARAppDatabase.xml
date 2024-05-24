@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="armarker" size="0.070000 0.052540" />
+  </Tracking>
+</QCARConfig>
